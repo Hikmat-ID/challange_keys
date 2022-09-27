@@ -20,4 +20,4 @@ Verification
 
 3. Pastikan ssh ke challange@lab1.adinusa.id - 2279 bisa akses tanpa Password.
 
-contoh command : ssh -i directori-username/pretest.pem challange@lab1.adinusa.id -p 2279
+contoh command : ssh -i directory-username/pretest.pem challange@lab1.adinusa.id -p 2279
